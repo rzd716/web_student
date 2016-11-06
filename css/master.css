@@ -1,0 +1,2 @@
+ /*设置checkbox组的线性排列*/
+.grouped.inline.fields .field{display: inline !important;margin-left: 12px !important;}
